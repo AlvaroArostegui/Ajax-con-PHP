@@ -1,5 +1,7 @@
 <?php
 
-    echo 'Ajax with PHP';
+    if(isset($_POST)) {
+        echo "Received" . " " . $_POST['username'];
+    }
 
 ?>
