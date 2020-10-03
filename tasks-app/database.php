@@ -7,8 +7,9 @@
         'tasks_app'
     );
 
+    /*
     if($conecction) {
         echo 'Database is conected';
     }
-
+    */
 ?>
